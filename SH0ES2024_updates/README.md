@@ -5,4 +5,8 @@ In this folder, we store the data files pertaining to the updated 2024 SH0ES-tea
 - Updated SN covariance ([Murakami et al. 2023](https://iopscience.iop.org/article/10.1088/1475-7516/2023/11/046))
 - SMC as an anchor galaxy ([Breuval et al. 2024](https://iopscience.iop.org/article/10.3847/1538-4357/ad630e))
 
-y refers to the data vector, C to the covariance matrix, L to the design matrix, and q is a list containing the model parameters.
+File content:
+- **y_R24.txt** is the data vector
+- **C_R24.txt** is the covariance matrix
+- **L_R24.txt** is the design matrix
+- **q_R24.txt** is a list of the model parameters
