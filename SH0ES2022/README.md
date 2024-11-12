@@ -3,4 +3,4 @@ In this folder, we store the data files pertaining to the baseline 2022 SH0ES te
 - **[y_R22.txt](/SH0ES2022/y_R22.txt)** is the data vector
 - **C_R22.txt** is the covariance matrix
 - **[L_R22.txt](/SH0ES2022/L_R22.txt)** is the design matrix
-- **[q_R22.txt](/SH0ES/q_R22.txt)** is a list of the model parameters
+- **[q_R22.txt](/SH0ES2022/q_R22.txt)** is a list of the model parameters
