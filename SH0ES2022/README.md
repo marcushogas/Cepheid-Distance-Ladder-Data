@@ -13,4 +13,4 @@ ID is a number representing the SN survey. Following the Pantheon+ convention, t
 
 {1:'SDSS', 4:'SNLS', 5:'CSP', 10:'DES', 15:'PS1MD', 18:’CNIa0.02’, 50:'LOWZ/JRK07', 51:'LOSS1', 56:'SOUSA', 57:’LOSS2’, 61:'CFA1', 62:'CFA2', 63:'CFA3S', 64:'CFA3K' ,65:'CFA4p2', 66:'CFA4p3', 100:'HST', 101:'SNAP', 106:'CANDELS', 150:'FOUND'}.
 
-The Jupyter notebook **[Read_files_R22.ipynb](/SH0ES2022/Read_files_R22.ipynb)** can be used to read the files and also provides a linear fit.
+The Jupyter notebook **[Read_and_Fit_R22.ipynb](/SH0ES2022/Read_and_Fit_R22.ipynb)** can be used to read the files and also provides a linear fit.
