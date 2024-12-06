@@ -10,6 +10,3 @@ To download a file, go to the repository, click on the file and select "Download
 ## Attribution
 This dataset is a modified version of the dataset provided by [Riess et al. 2022](https://iopscience.iop.org/article/10.3847/2041-8213/ac5c5b). 
 Please cite both our paper and the original authors' paper when using this dataset.
-
-## Citation
-If you use the [SH0ES2022](SH0ES2022/) dataset, please cite [arXiv:YYMM.NNNNN](link-to-paper) and [Riess et al. 2022a](https://iopscience.iop.org/article/10.3847/2041-8213/ac5c5b).
